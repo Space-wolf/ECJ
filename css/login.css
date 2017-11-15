@@ -1,0 +1,157 @@
+#login .box{
+    width: 568px;
+    margin:122px auto;
+}
+.box .logo{
+    width:188px;
+    height:77px;
+    margin:39px 189px;
+}
+.box .logo_info{
+    border:1px solid #d5d5d5;
+    box-shadow:0 0  4px #d5d5d5;
+    border-radius: 16px;
+}
+.logo_info .logo_tit{
+    height:64px;
+    line-height:64px;
+    font-size: 20px;
+    padding-left: 30px;
+    font-weight: bold;
+    background-color: #e2e2e2;
+    border-radius: 16px 16px 0 0;
+}
+.logo_info .logo_from{
+    width: 370px;
+    padding:44px 97px;
+}
+.logo_from .name{
+    height:46px;
+}
+.name label{
+    float: left;
+    width:40px;
+    height:40px;
+    background-color:#e2e2e2 ;
+    border:2px solid #d6d6d6;
+    border-right: none;
+}
+.name label i{
+    float: left;
+    width:20px;
+    height:20px;
+    margin:10px;
+    background: url("../img/name.jpg") no-repeat;
+}
+.name .name_inp{
+    width:304px;
+    height:40px;
+    padding:0 10px;
+    border:2px solid #d6d6d6;
+    font-size: 18px;
+}
+.logo_from .pwd{
+    height:46px;
+    margin-top:15px;
+}
+.pwd label{
+    float: left;
+    width:40px;
+    height:40px;
+    border:2px solid #d6d6d6;
+    background-color:#e2e2e2 ;
+    border-right: none;
+}
+.pwd label i{
+    float: left;
+    width:20px;
+    height:20px;
+    margin:10px;
+    background: url("../img/pwd.jpg") no-repeat;
+}
+.pwd .pwd_inp{
+    width:304px;
+    height:40px;
+    padding:0 10px;
+    border:2px solid #d6d6d6;
+    font-size: 18px;
+}
+.logo_from .md{
+    height:46px;
+    margin-top:15px;
+}
+.md label{
+    float: left;
+    width:40px;
+    height:40px;
+    border:2px solid #d6d6d6;
+    background-color:#e2e2e2 ;
+    border-right: none;
+}
+.md label i{
+    float: left;
+    width:20px;
+    height:20px;
+    margin:10px;
+    background: url("../img/md.jpg") no-repeat;
+}
+.md .md_inp{
+    width:304px;
+    height:40px;
+    padding:0 10px;
+    border:2px solid #d6d6d6;
+    font-size: 18px;
+}
+.logo_from .check{
+    height:46px;
+    margin-top:15px;
+}
+.check label{
+    float: left;
+    width:40px;
+    height:40px;
+}
+.check label input{
+    float: left;
+    width:20px;
+    height:20px;
+    margin:10px;
+    background: url("../img/md.jpg") no-repeat;
+}
+.check span{
+    height:40px;
+    line-height:40px;
+    font-size: 16px;
+}
+.logo_info .other{
+    height:80px;
+    background-color: #f9f9f9;
+}
+.other a{
+    font-size:16px;
+    color: #73a5c6;
+    padding-left:30px;
+    line-height:80px;
+}
+.other .btn{
+    float: right;
+    margin:18px 30px 0 0;
+    width:156px;
+    height:46px;
+    line-height:46px;
+    font-size:18px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #252525;
+    color: #fff;
+    cursor: pointer;
+}
+.box .back{
+    height:44px;
+    line-height:44px;
+    text-align: center;
+}
+.back a{
+    font-size:16px;
+    color: #65a8d3;
+}

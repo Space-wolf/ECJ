@@ -1,0 +1,60 @@
+.index_content .con_tit{
+    margin-bottom: 30px;
+    height:20px;
+    padding:15px 0;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+.con_tit i{
+    display: inline-block;
+    margin-left:10px;
+    width:20px;
+    height:20px;
+    background: url("../img/yibiao.jpg");
+    vertical-align: middle;
+}
+.con_tit span{
+    margin-left:25px;
+    height:20px;
+    font-size:16px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.index_content .dashboard{
+    height:240px;
+    padding:88px 0;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+.dashboard img{
+    float: left;
+    margin-left:90px;
+    width:300px;
+    height:240px;
+}
+.dashboard h3{
+    float: left;
+    margin-left:35px;
+    width:950px;
+    height:86px;
+    line-height:86px;
+    font-size: 54px;
+}
+.dashboard p{
+    float:left;
+    width:950px;
+    margin-left:35px;
+    line-height:30px;
+    font-size:20px;
+}
+.dashboard .more{
+    float: left;
+    margin: 20px 0 0 35px;
+    width:130px;
+    height:46px;
+    line-height: 46px;
+    font-size:18px;
+    color: #fff;
+    text-align: center;
+    background-color: #58b8d5;
+}
